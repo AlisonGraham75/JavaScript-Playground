@@ -6,3 +6,7 @@
 - 4-callbacks.js - how to code and use callback functions
 - 5-ES6-objects.js - object destructuring,object property shorthand
 - 6-raw-http.js - How to interact with an http or https response. 
+- 7-Express-Web-Frameworks.js - a simple example on how to use Express Web Framework
+
+## You must download/install NodeJS to run these scripts. 
+### Test intallation by running 'node -v' in a terminal
