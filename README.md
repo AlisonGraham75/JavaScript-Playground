@@ -9,4 +9,4 @@
 - 7-Express-Web-Frameworks.js - a simple example on how to use Express Web Framework
 
 ## You must download/install NodeJS to run these scripts. 
-### Test intallation by running 'node -v' in a terminal
+### Test installation by running 'node -v' in a terminal
