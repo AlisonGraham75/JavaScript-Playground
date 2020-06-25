@@ -8,5 +8,10 @@
 - 6-raw-http.js - How to interact with an http or https response. 
 - 7-Express-Web-Frameworks.js - a simple example on how to use Express Web Framework
 
-## You must download/install NodeJS to run these scripts. 
+## You must download/install NodeJS to run these scripts from Nodejs.org
 ### Test installation by running 'node -v' in a terminal
+## Place JavaScript files into a project. I use Visual Studio Code, a free IDE
+## Must initialize NPM in a project folder 
+### In the console: npm init
+## Install required npm package used in the script
+### In the console:  npm i <package name>@<package version>
