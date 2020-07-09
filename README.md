@@ -7,6 +7,7 @@
 - 5-ES6-objects.js - object destructuring,object property shorthand
 - 6-raw-http.js - How to interact with an http or https response. 
 - 7-Express-Web-Frameworks.js - a simple example on how to use Express Web Framework
+- 8-promises.js - an example of how to use promises to handle asynchronous operations
 
 ## You must download/install NodeJS to run these scripts from Nodejs.org
 ### Test installation by running 'node -v' in a terminal
